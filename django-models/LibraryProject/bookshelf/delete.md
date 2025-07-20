@@ -1,12 +1,7 @@
 from bookshelf.models import Book
 
-# Deleting the book
+# Delete the book instance
 book = Book.objects.get(title="Nineteen Eighty-Four")
 book.delete()
-
-# Verifying deletion
-books = Book.objects.all()
-print(books)
-
-# Expected Output:
-# <QuerySet []> (empty queryset, meaning no books exist)
+book = Book.objects.all()
+print(book)

@@ -1,7 +1,10 @@
-This an introductory projecct to Django 
-# LibraryProject
+# Alx_DjangoLearnLab
 
-This is a Django project created for learning Django development. It serves as a base for future Django applications.
+Tasks
+0. Introduction to Django Development Environment Setup
+1. Implementing and Interacting with Django Models
+2. Utilizing the Django Admin Interface
 
-## Installation
-1. Install Django:
+Week 10 
+0. Implementing Advanced Model Relationships in Django
+1. Django Views and URL Configuration
